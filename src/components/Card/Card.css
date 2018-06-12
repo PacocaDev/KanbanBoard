@@ -1,0 +1,5 @@
+.Card {
+  padding: 1em;
+  background-color: yellow;
+  background-clip: content-box;
+}
